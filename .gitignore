@@ -178,3 +178,5 @@ pyrightconfig.json
 yellow_tripdata_2024-01.**parquet
 *.csv
 nyc-tlc-data/
+
+
